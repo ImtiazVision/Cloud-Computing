@@ -21,3 +21,13 @@ The team releases software on a regular basis and is steadily improving. You alw
 ## Configuration Management
 
 Configuration management is a method of keeping computer systems, servers, and software in a consistent, desired condition. It's a method of ensuring that a system continues to work as intended while changes are made over time.
+
+
+## Containerization
+
+A container is a computing environment that is entirely packaged and portable. It's essentially a cloud-based lightweight virtual machine.
+
+
+## Scalability and Reliability in the Cloud
+
+In cloud computing, scalability refers to the capacity to scale up or down IT resources as needed to meet changing demand. The cloud's scalability is one of its distinguishing features and the key driver of its growing popularity among enterprises.
