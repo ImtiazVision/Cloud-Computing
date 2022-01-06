@@ -6,4 +6,4 @@ Cloud computing is analogous to a rain cloud in that its shape and form are ambi
 
 People used to install software via floppy disk onto their local system, i.e. computer, back in the 1980s and 1990s.
 
-Amazon built their first EC2 instance in 2006.
+In 2006, Amazon launched their first cloud platform, the EC2 instance.
