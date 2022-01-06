@@ -5,3 +5,5 @@ The rationale for the cloud logo is because all computers are linked into a cent
 Cloud computing is analogous to a rain cloud in that its shape and form are ambiguous and vary over time.
 
 People used to install software via floppy disk onto their local system, i.e. computer, back in the 1980s and 1990s.
+
+Amazon built their first EC2 instance in 2006.
