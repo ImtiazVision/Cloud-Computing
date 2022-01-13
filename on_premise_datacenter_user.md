@@ -8,3 +8,7 @@
 - High Availability
 - Storage
 - Governance
+
+
+Virtual Machine (VM) is the only example of Infrastructure as a Service (IaaS). 
+
