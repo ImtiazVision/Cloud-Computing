@@ -1,5 +1,9 @@
 # Cloud-Computing
 
+## Cloud Computing Introduction
+
+The Cloud is a colloquial term for someone else's computer. It is a computer, but more accurately, a collection of various services that combine to form a platform. These services might include virtual servers, data storage, networking, machine learning, security, analytics, media services, and database management systems, among others. All of these services have a highly customized feature set targeted at simplifying your organization's life by hosting them for us rather than us hosting them in our own server room or office building. We may choose where in the globe to host these services and remotely access them. And we can fine-tune them to perform exactly how we desire, at a fraction of the cost of hosting it ourselves.
+
 ## Software Delivery Cycle
 
 Steps illustrating where a project is in its lifecycle. It all begins with the requirements and the necessary planning, after which the software is created, produced, tested, and ready to deploy.
