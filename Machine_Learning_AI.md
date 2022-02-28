@@ -17,3 +17,5 @@ Amazon provides artificial intelligence technologies such as **Amazon Kendra** f
 **Amazon Polly** converts text into natural-sounding voice.
 
 **Amazon Transcribe** enhances our apps' speech-to-text capabilities.
+
+**Amazon Lex** makes it simple to create conversational agents or chat bots.
