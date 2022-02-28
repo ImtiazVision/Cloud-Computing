@@ -7,3 +7,7 @@ Amazon provides artificial intelligence technologies such as **Amazon Kendra** f
 **Amazon Forecast** creates precise forecasting models.
 
 **Amazon Fraud Detector** detects potential fraudulent online transactions.
+
+#### Machine Learning Vision 
+
+**Amazon Rekognition** analyzes photos and videos to determine their meaning. 
