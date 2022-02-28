@@ -5,3 +5,5 @@ Amazon provides artificial intelligence technologies such as **Amazon Kendra** f
 **Amazon Lookout for Metrics**: identifies and investigates unusual changes in areas such as revenue performance and customer retention. 
 
 **Amazon Forecast** creates precise forecasting models.
+
+**Amazon Fraud Detector** detects potential fraudulent online transactions.
