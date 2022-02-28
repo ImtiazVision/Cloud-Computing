@@ -15,3 +15,5 @@ Amazon provides artificial intelligence technologies such as **Amazon Kendra** f
 #### Machine Learning Language Services
 
 **Amazon Polly** converts text into natural-sounding voice.
+
+**Amazon Transcribe** enhances our apps' speech-to-text capabilities.
