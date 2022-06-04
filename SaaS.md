@@ -1,6 +1,6 @@
 ### Software as a Service
 
-Software as a Service is the simplest concept to grasp if we consider something as simple as Gmail.
+SaaS is a method of providing applications as a service via the internet. Software as a Service is the simplest concept to grasp if we consider something as simple as Gmail.
 
 With Gmail, the only thing we have to worry about is the program itself.
 We're concerned about your mailbox, about spam filters, and similar concerns.
