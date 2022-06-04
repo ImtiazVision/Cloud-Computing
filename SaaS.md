@@ -8,4 +8,4 @@ We are not concerned with the underlying servers, since Google has taken care of
 
 We are not concerned with how they load balance it, how they ensure high availability, or how they read the DNS.
 
-Software as a Service is a model in which we just concentrate on the software itself.
+Software as a Service is a model in which we just concentrate on the software itself.Zoom, Dropbox, Mailchimp, and Slack are some examples of SaaS.
