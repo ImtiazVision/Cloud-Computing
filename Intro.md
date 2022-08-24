@@ -13,7 +13,10 @@ Cloud computing is the evolution of two rapidly growing technologies: 1. Timesha
 Several of the characteristics of cloud computing include the following :
 
 1. Broad network access
-2. On-demand
+2. **On-demand Self Service** : 
+- The customer may choose the resource that is required. 
+- The customer can access the resource at any time and from any location.
+- Customers can upgrade or reduce their services at any time.
 3. Metered service usage
 4. Elasticity
 5. Provided-pooled computing resources
