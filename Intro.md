@@ -22,4 +22,6 @@ Several of the characteristics of cloud computing include the following :
 - Pay as you go
 - Financial control over business process
 4. Elasticity
-5. Provided-pooled computing resources
+5. **Provided-pooled computing resources/Resource Pooling** :
+- Scale up/down resource based on customers/business
+- Achieve multi-tenancy
