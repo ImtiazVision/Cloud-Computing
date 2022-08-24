@@ -17,6 +17,9 @@ Several of the characteristics of cloud computing include the following :
 - The customer may choose the resource that is required. 
 - The customer can access the resource at any time and from any location.
 - Customers can upgrade or reduce their services at any time.
-3. Metered service usage
+3. **Metered service usage** : 
+- No rental
+- Pay as you go
+- Financial control over business process
 4. Elasticity
 5. Provided-pooled computing resources
