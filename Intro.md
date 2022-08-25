@@ -35,3 +35,10 @@ Several of the characteristics of cloud computing include the following :
 - Scalability
 - Cost effective
 - Enhanced collaboration
+
+### Key Factors :
+These critical features enable cloud computing: 
+- Cloud Datacenters
+- Virtualization
+- Cloud APIs
+- Cloud storage
