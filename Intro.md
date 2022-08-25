@@ -28,3 +28,10 @@ Several of the characteristics of cloud computing include the following :
 5. **Provided-pooled computing resources/Resource Pooling** :
 - Scale up/down resource based on customers/business
 - Achieve multi-tenancy
+
+### Advantages of Cloud : 
+- 24*7 availability and accessiblility
+- Security
+- Scalability
+- Cost effective
+- Enhanced collaboration
