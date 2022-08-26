@@ -18,3 +18,10 @@ The Virtual Machine Monitor (also known as the Hypervisor) oversees the virtual 
 On top of the hypervisor, the virtual infrastructure management component deals with resource allocation, such as providing information for provisioning virtual infrastructure and assistance for setting operating policies.
 
 VMware vSphere, Citrix, and XenServer are examples of virtualization platforms that operate on physical servers and are used to produce host VMs.
+
+### Benefits of Virtualization : Multitasking and increased efficiency
+
+**Manageability**- the ability to transfer, clone, and isolate virtual machines.
+**Sustainability**- energy savings achieved by the use of less hardware and electricity
+**Availability**- the ability to backup, clone, and run redundant virtual machines.
+**Security**- isolation of virtual machines and applications
