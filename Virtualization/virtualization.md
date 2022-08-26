@@ -10,3 +10,11 @@ Virtualization's most notable characteristics are:
 - **Isolation** : Each virtual instance is isolated from one another and from the resource.
 
 - **Encapsulation** : A virtual instance can be summarized as a single entity to make it easier to identify the service it provides.
+
+A virtual server is a virtual computer that operates on a server.
+
+The Virtual Machine Monitor (also known as the Hypervisor) oversees the virtual machines that reside on a single host machine.
+
+On top of the hypervisor, the virtual infrastructure management component deals with resource allocation, such as providing information for provisioning virtual infrastructure and assistance for setting operating policies.
+
+VMware vSphere, Citrix, and XenServer are examples of virtualization platforms that operate on physical servers and are used to produce host VMs.
