@@ -33,3 +33,9 @@ Application or software Virtualization isolates programs/applications from the u
 It allows apps to execute in environments where the native application would fail.
 
 It helps to maintain a common software baseline across numerous machines, which saves system integration and management expenses.
+
+### Storage and Desktop Virtualization :
+
+**Storage virtualization** : is a technique in which several physical storages are pooled to look as a single storage.
+
+**Desktop virtualization** : or client virtualization is a concept that keeps the user's desktop on a distant server and allows the user to view it from any device or location.
