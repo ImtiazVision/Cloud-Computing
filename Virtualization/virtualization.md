@@ -25,3 +25,11 @@ VMware vSphere, Citrix, and XenServer are examples of virtualization platforms t
 **Sustainability**- energy savings achieved by the use of less hardware and electricity
 **Availability**- the ability to backup, clone, and run redundant virtual machines.
 **Security**- isolation of virtual machines and applications
+
+### Software Virtualization : 
+
+Application or software Virtualization isolates programs/applications from the underlying hardware on which they are run.
+
+It allows apps to execute in environments where the native application would fail.
+
+It helps to maintain a common software baseline across numerous machines, which saves system integration and management expenses.
